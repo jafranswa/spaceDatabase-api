@@ -1,4 +1,4 @@
-package com.jacobfrancois.spaceDatabase.service;
+package com.jacobfrancois.spaceDatabase;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
